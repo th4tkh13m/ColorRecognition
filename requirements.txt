@@ -1,0 +1,3 @@
+webcolors
+opencv-python
+scikit-learn
